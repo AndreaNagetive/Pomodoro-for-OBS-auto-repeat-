@@ -1,1 +1,1 @@
-# Pomodoro-for-OBS-auto-repeat-
+# Pomodoro-for-OBS (Auto Repeat)
