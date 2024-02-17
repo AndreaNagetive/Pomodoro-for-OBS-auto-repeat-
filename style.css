@@ -23,10 +23,10 @@ body {    font-family: 'Times New Roman', Times, serif;
 }
   
   #work {
-    font-size: 48px;/*更改字体大小*/
-    color: black;/*更改字体颜色*/
+    font-size: 48px;/*font size*/
+    color: black;/*font color*/
   }
   #break{
-      font-size: 48px;/*更改字体大小*/
-      color: black;/*更改字体颜色*/
+      font-size: 48px;/*font size*/
+      color: black;/*font color*/
   }
